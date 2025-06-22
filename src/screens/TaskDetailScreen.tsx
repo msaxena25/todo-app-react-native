@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     padding: 10,
     fontSize: 18,
-    marginTop: 10,
+    marginTop: 20,
     borderRadius: 6,
     marginBottom: 20,
   },

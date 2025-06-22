@@ -87,12 +87,12 @@ export default function TaskListScreen({
           <Text style={[styles.taskText, isCompleted && styles.completed]}>
             {task.title}
           </Text>
-        
+
         </TouchableOpacity>
       </View>
     </View>
   );
-  
+
 
   return (
     <View style={styles.wrapper}>
